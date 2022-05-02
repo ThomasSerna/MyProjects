@@ -1,1 +1,0 @@
-En esta parte del repositorio se encuentran todos los archivos que creé mientras aprendia los fundamentos en Python
